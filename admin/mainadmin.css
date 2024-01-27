@@ -1,0 +1,39 @@
+.curd-user>a{
+    margin-right: 20px;
+}
+
+.UP-btn{
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .8rem;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background-color: #4e72dfd9;
+    transition: ease 0.4s;
+}   
+
+.UP-btn:hover{
+    background-color: #4E73DF;
+    color: #fff;
+}
+
+.UD-btn{
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .8rem;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background-color: rgba(255, 0, 0, 0.706); 
+    transition: ease 0.4s;
+}
+
+.UD-btn:hover{
+    background-color: red;
+    color: #fff;
+}
